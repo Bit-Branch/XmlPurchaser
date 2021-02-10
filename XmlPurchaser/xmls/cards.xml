@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<cards>
+  <card id="a5555-6667-7543-6778" name="noname">
+    <percent>5</percent>
+    <balance>200</balance>
+    <bonuses>55</bonuses>
+  </card>
+  <card id="d5555-4657-7545-6778" name="Sara">
+    <percent>2</percent>
+    <balance>1100</balance>
+    <bonuses>300</bonuses>
+  </card>
+  <card id="e5565-6767-6543-6678" name="Nick">
+    <percent>4</percent>
+    <balance>1440</balance>
+    <bonuses>200</bonuses>
+  </card>
+  <card id="e5565-6767-9999-9999" name="Ilya">
+    <percent>9</percent>
+    <balance>99</balance>
+    <bonuses>9</bonuses>
+  </card>
+  <card id="e5565-6767-9999-1010" name="petr">
+    <percent>5</percent>
+    <balance>99999999</balance>
+    <bonuses>100</bonuses>
+  </card>
+  <card id="e5565-6767-9999-1111" name="dima">
+    <percent>5</percent>
+    <balance>9999</balance>
+    <bonuses>40</bonuses>
+  </card>
+  <card id="e5555-6666-7777-1111" name="test">
+    <percent>2</percent>
+    <balance>202</balance>
+    <bonuses>20</bonuses>
+  </card>
+</cards>

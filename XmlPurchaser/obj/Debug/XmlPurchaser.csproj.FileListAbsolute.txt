@@ -1,0 +1,6 @@
+F:\PROJECTS\РИС\Ris7\Ris7\bin\Debug\XmlPurchaser.exe.config
+F:\PROJECTS\РИС\Ris7\Ris7\bin\Debug\XmlPurchaser.exe
+F:\PROJECTS\РИС\Ris7\Ris7\bin\Debug\XmlPurchaser.pdb
+F:\PROJECTS\РИС\Ris7\Ris7\obj\Debug\XmlPurchaser.csprojResolveAssemblyReference.cache
+F:\PROJECTS\РИС\Ris7\Ris7\obj\Debug\XmlPurchaser.exe
+F:\PROJECTS\РИС\Ris7\Ris7\obj\Debug\XmlPurchaser.pdb

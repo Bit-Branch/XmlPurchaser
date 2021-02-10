@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<purchases>
+  <purchase id="a5555" name="Smartphone">
+    <price>1200</price>
+  </purchase>
+  <purchase id="a3657" name="Smart TV">
+    <price>1900</price>
+  </purchase>
+  <purchase id="a5588" name="TV">
+    <price>1100</price>
+  </purchase>
+  <purchase id="a5565" name="Stereo system">
+    <price>1440</price>
+  </purchase>
+  <purchase id="a6611" name="IPhone">
+    <price>2300</price>
+  </purchase>
+  <purchase id="19" name="Panasonic">
+    <price>1000</price>
+  </purchase>
+</purchases>

@@ -1,0 +1,14 @@
+D:\university\sem 7\RIS\ris7V2Daria\Ris7\Ris7\bin\Debug\Ris7.exe.config
+D:\university\sem 7\RIS\ris7V2Daria\Ris7\Ris7\bin\Debug\Ris7.exe
+D:\university\sem 7\RIS\ris7V2Daria\Ris7\Ris7\bin\Debug\Ris7.pdb
+D:\university\sem 7\RIS\ris7V2Daria\Ris7\Ris7\obj\Debug\Ris7.csprojAssemblyReference.cache
+D:\university\sem 7\RIS\ris7V2Daria\Ris7\Ris7\obj\Debug\Ris7.csproj.CoreCompileInputs.cache
+D:\university\sem 7\RIS\ris7V2Daria\Ris7\Ris7\obj\Debug\Ris7.exe
+D:\university\sem 7\RIS\ris7V2Daria\Ris7\Ris7\obj\Debug\Ris7.pdb
+F:\PROJECTS\РИС\Ris7\Ris7\bin\Debug\Ris7.exe.config
+F:\PROJECTS\РИС\Ris7\Ris7\obj\Debug\Ris7.exe
+F:\PROJECTS\РИС\Ris7\Ris7\obj\Debug\Ris7.pdb
+F:\PROJECTS\РИС\Ris7\Ris7\bin\Debug\Ris7.exe
+F:\PROJECTS\РИС\Ris7\Ris7\bin\Debug\Ris7.pdb
+F:\PROJECTS\РИС\Ris7\Ris7\obj\Debug\Ris7.csprojResolveAssemblyReference.cache
+F:\PROJECTS\РИС\Ris7\Ris7\bin\Debug\XmlPurchaser.exe.config
